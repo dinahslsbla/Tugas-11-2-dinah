@@ -1,6 +1,6 @@
 import requests
 
-api_key = '59971627-5237-4dde-b3d9-fed26b723b0f'
+api_key = '7600e864-f049-4486-a566-0840a0234148'
 word = 'potato'
 url = f'https://www.dictionaryapi.com/api/v3/references/collegiate/json/{word}?key={api_key}'
 
